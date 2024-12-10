@@ -1,11 +1,11 @@
 [package]
-name = "control_craft"
+name = "control-craft"
 version = "0.1.0"
 authors = ["Cygnixy Team"]
 edition = "2021"
 license = "MIT"
 description = "Mouse and Keyboard Control Library for Windows, enabling programmatic input simulation using the Windows API."
-repository = "https://github.com/cygnixy/control_craft"
+repository = "https://github.com/cygnixy/control-craft"
 readme = "README.md"
 keywords = ["windows", "mouse", "keyboard", "input", "automation"]
 
